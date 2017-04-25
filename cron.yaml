@@ -1,0 +1,4 @@
+cron:
+- description: warm-up
+  url: /
+  schedule: every 2 minutes
